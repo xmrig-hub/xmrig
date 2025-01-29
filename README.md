@@ -1,11 +1,3 @@
-# Installation
-Click the download button for your operating system:
-<p float="left">
-  <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
-  <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
-  <a href="https://github.com/xmrig-hub/xmrig/releases/download/v6.22.2/release_gcc-win64.zip"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
-</p>
-
 # XMRig
 
 [![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/xmrig/xmrig/releases)
